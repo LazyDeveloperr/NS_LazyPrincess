@@ -1,0 +1,9 @@
+Pyrogram
+tgcrypto
+requests
+bs4
+imdbpy
+pymongo
+motor
+marshmallow
+umongo

@@ -1,0 +1,1 @@
+python -u "c:\Users\md wasik alam\Desktop\my bot\bot.py"
