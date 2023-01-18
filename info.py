@@ -10,6 +10,7 @@ def is_enabled(value, default):
     else:
         return default
 
+
 # Bot information
 SESSION = environ.get('SESSION', 'lazyPrinces')
 API_ID = int(environ.get('API_ID', '20854013'))
